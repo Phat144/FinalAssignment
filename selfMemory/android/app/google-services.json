@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "351428187564",
+    "firebase_url": "https://selfcardmemory.firebaseio.com",
+    "project_id": "selfcardmemory",
+    "storage_bucket": "selfcardmemory.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351428187564:android:a00297146fe24014e65609",
+        "android_client_info": {
+          "package_name": "com.example.music_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351428187564-tklt8b4p83931t100ta12mulsd53oeq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhvQNKg_GYw1D0P75Xnuq7Ug8TMbGxOD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351428187564-tklt8b4p83931t100ta12mulsd53oeq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
