@@ -1,4 +1,4 @@
-# music_app
+# SelfMemory App
 
 A new Flutter project.
 
